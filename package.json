@@ -1,0 +1,17 @@
+{
+  "name": "pfajpf--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "vue": "3.0.0",
+    "@progress/kendo-data-query": "1.5.4",
+    "@progress/kendo-vue-grid": "1.1.0",
+    "@progress/kendo-vue-animation": "1.1.2",
+    "@progress/kendo-vue-data-tools": "1.1.2",
+    "@progress/kendo-vue-dateinputs": "1.1.2",
+    "@progress/kendo-vue-dropdowns": "1.1.2",
+    "@progress/kendo-vue-inputs": "1.1.2",
+    "@progress/kendo-vue-intl": "1.1.2",
+    "@progress/kendo-vue-popup": "1.1.2"
+  }
+}
